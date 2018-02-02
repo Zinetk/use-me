@@ -1,5 +1,4 @@
 #Source list
-=======================
 deb http://archive.debian.org/debian/ squeeze main contrib non-free
 deb-src http://archive.debian.org/debian/ squeeze main contrib non-free
 deb http://archive.debian.org/debian-security/ squeeze/updates main contrib non-free
